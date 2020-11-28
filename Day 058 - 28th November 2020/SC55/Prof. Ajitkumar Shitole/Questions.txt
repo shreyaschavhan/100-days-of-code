@@ -1,0 +1,68 @@
+Assignment 1:
+Write a Python program to store marks scored in subject “Fundamental of Data
+Structure” by N students in the class. Write functions to compute following:
+a) The average score of class
+b) Highest score and lowest score of class
+c) Count of students who were absent for the test
+d) Display mark with highest frequency
+
+-----------------------------------------------------
+
+Assignment 2:
+Write a Python program to compute following computation on matrix:
+a) Addition of two matrices
+b) Subtraction of two matrices
+c) Multiplication of two matrices
+d) Transpose of a matrix
+
+-----------------------------------------------------
+
+Assignment 3:
+Write a Python program to store first year percentage of students in array. Write
+function for sorting array of floating point numbers in ascending order using
+a) Selection Sort
+b) Bubble sort and display top five scores.
+
+-----------------------------------------------------
+
+Assignment 4:
+Write a Python program to store first year percentage of students in array. Write
+function for sorting array of floating point numbers in ascending order using quick sort
+and display top five scores.
+
+-----------------------------------------------------
+
+Assignment 5:
+Department of Computer Engineering has student's club named 'Pinnacle Club'. Students
+of second, third and final year of department can be granted membership on request.
+Similarly one may cancel the membership of club. First node is reserved for president of
+club and last node is reserved for secretary of club. Write C++ program to maintain club
+member‘s information using singly linked list. Store student PRN and Name. Write
+functions to:
+a) Add and delete the members as well as president or even secretary.
+b) Compute total number of members of club
+c) Display members
+d) Two linked lists exists for two divisions. Concatenate two lists.
+
+-----------------------------------------------------
+
+Assignment 6:
+Queues are frequently used in computer programming, and a typical example is the
+creation of a job queue by an operating system. If the operating system does not use
+priorities, then the jobs are processed in the order they enter the system. Write C++
+program for simulating job queue. Write functions to add job and delete job from queue.
+
+-----------------------------------------------------
+
+Assignment 7:
+A double-ended queue (deque) is a linear list in which additions and deletions may be
+made at either end. Obtain a data representation mapping a deque into a one-
+dimensional array. Write C++ program to simulate deque with functions to add and
+delete elements from either end of the deque.
+
+-----------------------------------------------------
+
+Assignment 8:
+Pizza parlor accepting maximum M orders. Orders are served in first come first served
+basis. Order once placed cannot be cancelled. Write C++ program to simulate the system
+using circular queue using array.
