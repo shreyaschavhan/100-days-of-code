@@ -1,0 +1,9 @@
+In Python3, ascii_lowercase is a pre-initialized string used as string constant. In Python, string ascii_lowercase will give the lowercase letters ‘abcdefghijklmnopqrstuvwxyz’.
+
+Syntax : string.ascii_lowercase
+
+Parameters : Doesn’t take any parameter, since it’s not a function.
+
+Returns : Return all lowercase letters.
+
+Note : Make sure to import string library function inorder to use ascii_lowercase.
