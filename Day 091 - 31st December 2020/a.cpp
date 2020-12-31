@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    cout << int('a') - 9716.2 Recursion - Challenges  << endl;
+    cout << int('b') - 97 << endl;
     return 0;
 }
