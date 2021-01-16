@@ -15,6 +15,6 @@ int main(){
     for(int i : arr){
         sq_dist += (i - mean) * (i - mean);
     }
-    cout <<  setprecision(1) << fixed << sqrt(sq_dist/n1) << endl; 
+    cout <<  setprecision(1) << fixed << sqrt(sq_dist/n1) << endl;
     return 0;
 }
